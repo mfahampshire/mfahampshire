@@ -1,4 +1,4 @@
-Currently Senior DevRel @ Nym. Focussed on docs + building. 
+Currently Senior DevRel @ Nym. Focussed on docs + code, working on initial integrations and abstractions. 
 
 - Rust SDK Mixnet TcpProxy  ~~[RPC](https://github.com/nymtech/nym-zcash-rpc-demo) & [gRPC](https://github.com/nymtech/nym-zcash-grpc-demo) over mixnet~~
   - [code](https://github.com/nymtech/nym/tree/develop/sdk/rust/nym-sdk/src/tcp_proxy)
