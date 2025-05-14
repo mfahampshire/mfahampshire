@@ -11,4 +11,4 @@ Currently Senior DevRel @ Nym. Focussed on docs + code, working on initial integ
   - [deployed site](https://nymtech.net/docs)
   - [autodoc](https://github.com/nymtech/nym/tree/develop/documentation/autodoc) - generate markdown command output for docs 
 
-mfahampshire.github.io
+[mfahampshire.github.io](https://mfahampshire.github.io)
