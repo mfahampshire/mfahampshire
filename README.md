@@ -7,7 +7,7 @@ Current work centers around:
 Recent work: 
 - Implementing the [Diataxis framework](https://diataxis.fr/) for the Nym docs
 - Debugging WASM runtime errors and multiple (Go + Rust) runtime interaction for [`mixFetch`](https://nym.com/docs/developers/typescript/playground/mixfetch) + modifying its concurrency restrictions
-- Rust SDK [`stream`](https://nym.com/docs/developers/rust/stream) module
+- Rust SDK [`stream`](https://nym.com/docs/developers/rust/stream) module + underlying `IpMixStream` SDK module
 - [`smolmix`](https://github.com/nymtech/nym/commit/7ceaf9a40ec9ee41758100c9785dcf836b9ff3e7) Rust crate (crate publication + docs forthcoming)
 - [crates.io](https://crates.io/search?q=nym) preparation and publication flows for majority of the Nym monorepo crates 
 
