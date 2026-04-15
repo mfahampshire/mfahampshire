@@ -1,4 +1,4 @@
-I run one part of DevRel (everything aside from node operation) and do integrations for the mixnet project Nym. 
+I am one half of DevRel (developer focussed aspects - node operation is maintained by the other half of the team) and do integrations for the mixnet project Nym. 
 
 Current work centers around: 
 - Maintaining the [Nym docs](https://nym.com/docs)
