@@ -1,7 +1,7 @@
 I run one part of DevRel (everything aside from node operation) and do integrations for the mixnet project Nym. 
 
 Current work centers around: 
-- [Nym docs](https://nym.com/docs)
+- Maintaining the [Nym docs](https://nym.com/docs)
 - Working on the [Nym SDKs](https://nym.com/docs/developers) 
 
 Recent work: 
