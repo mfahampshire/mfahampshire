@@ -13,3 +13,5 @@ Recent work:
 Main focuses: 
 - System programming with Rust (especially focussed on networking abstractions)
 - Using WASM for privacy-preserving code within the confines of browsers (e.g. userspace TCP/IP, certs, and security restrictions) 
+
+Note on Git commit heatmap: since we use squash-and-merge for PRs, the majority of the commits in the heatmap below are merged PRs into the Nym monorepo. 
