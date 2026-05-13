@@ -16,4 +16,4 @@ Main focuses:
 - Using WASM for privacy-preserving code within the confines of browsers (e.g. userspace TCP/IP, certs, and security restrictions)
 - Documentation 
 
-Note on Git commit heatmap: since we use squash-and-merge for PRs, the majority of the commits in the heatmap below are merged PRs into the Nym monorepo. 
+*Note on Git commit heatmap: since we use squash-and-merge for PRs, the majority of the commits in the heatmap below are merged PRs into the Nym monorepo.*
